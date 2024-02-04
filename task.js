@@ -19,11 +19,11 @@
 
 => JavaScript objects, fundamental to the language's versatility, hold key-value pairs and are structured internally by property descriptors and a prototype chain. Understanding these internals is vital for effective manipulation.
 
-Property Descriptors: Define attributes like writability and enumerability.
-Prototype Chain: Enables inheritance for cleaner, reusable code.
-Creating objects varies:
-
-Object Literal: Simple and quick.
-Constructor Functions: Structured blueprints.
-Object.create(): Prototype-based object creation.
-JavaScript's prototypal inheritance enhances flexibility. Armed with this knowledge, developers unlock the potential to create efficient, modular, and scalable JavaScript applications. */
+    Property Descriptors: Define attributes like writability and enumerability.
+    Prototype Chain: Enables inheritance for cleaner, reusable code.
+    
+    Creating objects varies:
+    Object Literal: Simple and quick.
+    Constructor Functions: Structured blueprints.
+    Object.create(): Prototype-based object creation.
+    JavaScript's prototypal inheritance enhances flexibility. Armed with this knowledge, developers unlock the potential to create efficient, modular, and scalable JavaScript applications. */
